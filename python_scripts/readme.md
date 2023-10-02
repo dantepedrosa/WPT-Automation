@@ -8,7 +8,7 @@ For doubts and futher information, e-mail me on: <dantepedrosa@gmail.com>!
 
 ## Contents
 
-This file explains the purposes of each of the other files in this folder, including:
+This main file explains the purposes of each of the other files in this folder, including:
 
 - ``cleanup.py`` - A cleanup tool used to clear junk files from current folder, gererated in the simulations.  
 [Go to section...](#cleanuppy) | [Open file...](cleanup.py)
