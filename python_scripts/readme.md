@@ -11,13 +11,13 @@ For doubts and futher information, e-mail me on: <dantepedrosa@gmail.com>!
 This file explains the purposes of each of the other files in this folder, including:
 
 - ``cleanup.py`` - A cleanup tool used to clear junk files from current folder, gererated in the simulations.  
-[Go to section...](##``cleanup.py``) | [Open file...](cleanup.py)
+[Go to section...](#cleanuppy) | [Open file...](cleanup.py)
 
 - ``efficiency_calculation.py`` - Calculates the efficiency of a sigle FEMM file (*.fem) in the folder it's located and prints on result on terminal.   
-[Go to section...](#``efficiency_calculation.py``) | [Open file...](efficiency_calculation.py)
+[Go to section...](#efficiency_calculationpy) | [Open file...](efficiency_calculation.py)
 
 - ``efficiency_calculation_lib.py`` - A library version of ``efficiency_calculation.py`` to be used by other main scripts.   
-[Go to section...](#``efficiency_calculation_lib.py``) | [Open file...](efficiency_calculation_lib.py)
+[Go to section...](#efficiency_calculation_libpy) | [Open file...](efficiency_calculation_lib.py)
 
 - ``efficiency_v_diameter.py`` - A script for calculating the best combination of wire diameter and number of turns in a coil with a static cross section area that yields in the highest efficiency.  
 [Go to section...](#efficiency_v_diameterpy) | [Open file...](efficiency_v_diameter.py)
@@ -27,34 +27,29 @@ This file explains the purposes of each of the other files in this folder, inclu
 
 
 
-## ``cleanup.py``
+## [``cleanup.py``](cleanup.py)
 
-A cleanup tool used to clear junk files from current folder, gererated in the simulations.  
-[Open file...](cleanup.py)
+A cleanup tool used to clear junk files from current folder, gererated in the simulations.
 
 
-## ``efficiency_calculation.py``
+## [``efficiency_calculation.py``](efficiency_calculation.py)
 
 Calculates the efficiency of a sigle FEMM file (*.fem) in the folder it's located and prints on result on terminal.   
-[Open file...](efficiency_calculation.py)
 
 
-## ``efficiency_calculation_lib.py``
+## [``efficiency_calculation_lib.py``](efficiency_calculation_lib.py)
 
 A library version of ``efficiency_calculation.py`` to be used by other main scripts.   
-[Open file...](efficiency_calculation_lib.py)
 
 
-## ``efficiency_v_diameter.py``
+## [``efficiency_v_diameter.py``](efficiency_v_diameter.py)
 
 A script for calculating the best combination of wire diameter and number of turns in a coil with a static cross section area that yields in the highest efficiency.   
-[Open file...](efficiency_v_diameter.py)
 
 The logic of the script is as follows:
 
 ![Alt text](<Diagram - Diameter vs Current.png>)
 
-## ``general_simulations.py``
+## [``general_simulations.py``](general_simulations.py)
 
 The gereral simulations file, used for creating simulations such as efficiency as a function of geometry cacacteristcs (area, lenght, distance and wire diameter) and circuit caracteristcs (current, frequency, wire type and load resistance) in one go.  
-[Open file...](general_simulations.py)
