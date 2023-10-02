@@ -14,7 +14,7 @@ For doubts and futher information, e-mail me on: <dantepedrosa@gmail.com>!
 This file explains the purposes of each of the other files in this folder, including:
 
 - ``cleanup.py`` - A cleanup tool used to clear junk files from current folder, gererated in the simulations.  
-[Go to section...](#cleanuppy) | [Open file...](cleanup.py)
+[Go to section...](#cleanuppy) | [Open file...](python_scripts/cleanup.py)
 
 - ``efficiency_calculation.py`` - Calculates the efficiency of a sigle FEMM file (*.fem) in the folder it's located and prints on result on terminal.   
 [Go to section...](#efficiency_calculationpy) | [Open file...](efficiency_calculation.py)
