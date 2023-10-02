@@ -11,7 +11,7 @@ For doubts and futher information, e-mail me on: <dantepedrosa@gmail.com>!
 
 ## Contents
 
-This file explains the purposes of each of the other files in this folder, including:
+The [`readme.md`](python_scripts/readme.md) file inside the folder explains the purposes of each of the other files inside, including:
 
 - ``cleanup.py`` - A cleanup tool used to clear junk files from current folder, gererated in the simulations.  
 [Go to section...](python_scripts/readme.md#cleanuppy) | [Open file...](python_scripts/cleanup.py)
