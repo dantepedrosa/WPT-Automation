@@ -92,7 +92,7 @@ The gereral simulations file, used for creating simulations such as efficiency a
 
 This is the most complete version of the script, where you can choose which type of simulation you want and get an interactive graph with efficiency as a funcion of the altered parameter.
 
-For the simulation to happen, the first, last and step values need to be set beforehand, as the other values that it may need, for each simulation. It does all simulations in a row and after it finishes, a window opens such as follows:
+For the simulation to happen, the first, last and step values need to be set beforehand, as well as the other values that it may need, for each simulation. It does all simulations in a row and after it finishes, a window opens such as follows:
 
 ![image](https://github.com/dantepedrosa/WPT-Automation/assets/58957540/ee6c147a-be5c-4b09-928c-80f82d48cd21)
 
